@@ -13,9 +13,7 @@ Here you'll find detailed analyses of existing products. Each teardown is a deep
 ### Product Teardown: Spotify's New User Onboarding
 - **Focus**: A comprehensive analysis of Spotify's onboarding flow for new users.  
 - **Description**: This teardown deconstructs the user journey from initial sign-up to first-time playlist creation. It identifies three critical pain points that create friction and proposes a redesigned flow aimed at increasing user activation and engagement.  
-- **Deliverable**: [Spotify-Teardown-Deck.pdf](./Spotify-Teardown-Deck.pdf)  
-
-*(Note: Replace the link above with the actual path to your PDF in the repo.)*
+- **Deliverable**: [(https://github.com/pratyush-usc-mba/The-Comprehensive-Product-Teardown-Redesign/blob/main/Nextleap-LIP-6-Amazon.pdf)], [https://github.com/pratyush-usc-mba/The-Comprehensive-Product-Teardown-Redesign/blob/main/Nextleap-LIP-5-Bard.pdf], [https://github.com/pratyush-usc-mba/The-Comprehensive-Product-Teardown-Redesign/blob/main/Nextleap_LIP-1-Uber.pdf], [https://github.com/pratyush-usc-mba/The-Comprehensive-Product-Teardown-Redesign/blob/main/Nextleap_LIP-2-Bumble.pdf], [https://github.com/pratyush-usc-mba/The-Comprehensive-Product-Teardown-Redesign/blob/main/Nextleap_LIP-3-MapMyIndia.pdf]
 
 ---
 
