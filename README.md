@@ -24,7 +24,7 @@ Here you'll find detailed analyses of existing products. Each teardown is a deep
 To ensure a structured and thorough analysis, I apply a consistent framework to every product teardown. This methodology allows me to move from high-level goals to specific, actionable recommendations.
 
 1. **Define the Goal & Scope**  
-   Identify a specific user flow and define a clear, measurable goal for the analysis (e.g., *"Increase the 7-day retention rate by improving the initial content discovery experience"*).
+   Identify a specific user flow and define a clear, measurable goal for the analysis.
 
 2. **User and Market Analysis**  
    Develop user personas and apply the *Jobs to be Done (JTBD)* framework to understand user motivations and the competitive landscape.
