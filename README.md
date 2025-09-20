@@ -13,7 +13,12 @@ Here you'll find detailed analyses of existing products. Each teardown is a deep
 ### Product Teardown: Spotify's New User Onboarding
 - **Focus**: A comprehensive analysis of Spotify's onboarding flow for new users.  
 - **Description**: This teardown deconstructs the user journey from initial sign-up to first-time playlist creation. It identifies three critical pain points that create friction and proposes a redesigned flow aimed at increasing user activation and engagement.  
-- **Deliverable**: [(https://github.com/pratyush-usc-mba/The-Comprehensive-Product-Teardown-Redesign/blob/main/Nextleap-LIP-6-Amazon.pdf)], [https://github.com/pratyush-usc-mba/The-Comprehensive-Product-Teardown-Redesign/blob/main/Nextleap-LIP-5-Bard.pdf], [https://github.com/pratyush-usc-mba/The-Comprehensive-Product-Teardown-Redesign/blob/main/Nextleap_LIP-1-Uber.pdf], [https://github.com/pratyush-usc-mba/The-Comprehensive-Product-Teardown-Redesign/blob/main/Nextleap_LIP-2-Bumble.pdf], [https://github.com/pratyush-usc-mba/The-Comprehensive-Product-Teardown-Redesign/blob/main/Nextleap_LIP-3-MapMyIndia.pdf]
+- **Deliverables**:  
+  - [Amazon Teardown (PDF)](https://github.com/pratyush-usc-mba/The-Comprehensive-Product-Teardown-Redesign/blob/main/Nextleap-LIP-6-Amazon.pdf)  
+  - [Bard Teardown (PDF)](https://github.com/pratyush-usc-mba/The-Comprehensive-Product-Teardown-Redesign/blob/main/Nextleap-LIP-5-Bard.pdf)  
+  - [Uber Teardown (PDF)](https://github.com/pratyush-usc-mba/The-Comprehensive-Product-Teardown-Redesign/blob/main/Nextleap_LIP-1-Uber.pdf)  
+  - [Bumble Teardown (PDF)](https://github.com/pratyush-usc-mba/The-Comprehensive-Product-Teardown-Redesign/blob/main/Nextleap_LIP-2-Bumble.pdf)  
+  - [MapMyIndia Teardown (PDF)](https://github.com/pratyush-usc-mba/The-Comprehensive-Product-Teardown-Redesign/blob/main/Nextleap_LIP-3-MapMyIndia.pdf)  
 
 ---
 
@@ -52,5 +57,5 @@ To ensure a structured and thorough analysis, I apply a consistent framework to 
 
 I'm always open to discussing product, technology, and new opportunities.  
 
-- **LinkedIn**: [linkedin.com/in/i-m-pratyush-singh](https://linkedin.com/in/i-m-pratyush-singh)  
+- **LinkedIn**: [linkedin.com/in/i-m-pratyush-singh](https://www.linkedin.com/in/i-m-pratyush-singh)  
 - **Email**: [pratyush.singh.2027@marshall.usc.edu](mailto:pratyush.singh.2027@marshall.usc.edu)  
